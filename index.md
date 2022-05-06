@@ -1,123 +1,39 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+# Education
+**Bachelor of Science: Computer Science** <br/>
+09/2017 – 06/2022 <br/>
+Computer Science Specialist – with high distinction <br/>
+_University of Toronto, St. George Campus - Toronto, ON, Canada_ <br/>
 
 * * *
 
-### Here is an unordered list:
+# Skills
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+**Programming Languages:** JavaScript, TypeScript, HTML, CSS, Python, Bash, Shell, Java, C, PHP <br />
+**Frameworks:** Node.js, React.js, Express.js, Bootstrap, AntDesign, jQuery <br />
+**Others:** Git, Linux, Docker, Nginx, Apache, Jenkins, DB2, PostgreSQL, MongoDB
 
-### And an ordered list:
+* * *
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+# Work History
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### IBM, Toronto, Canada
+> Full Stack Developer Intern <br />
+> 05/2020 – 05/2022 <br />
 
 
-### Definition lists can be used with HTML syntax.
+Developed, coded, modified, and debugged a headcount tool web application of varying degree of complexity with full 
+independence. Wrote production-ready code with fluency in modern front-end and back-end frameworks like **React.js**
+and **Express.js/Node.js**. Wrote **Python** scripts for daily maintenance activities, including indexes and tables analyses. Tested troubleshooting methods, devised innovative solutions, and documented resolutions for inclusion in knowledge base for support team use. Maintain **Ubuntu** VMs and **Jenkins** servers to support stable CI/CD.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Researched, designed, and implemented scalable applications for data extraction, analysis, retrieval, and indexing using **IBM DB2**. Worked closely with other business analysts, development teams and infrastructure specialists to deliver high availability solutions for mission-critical applications.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+* * *
 
-```
-The final element.
-```
+# Projects
+
+### SickKids Uroflow
+
+SickKids Uroflow was a **student-led project** partnered directly with The Hospital for Sick Children (SickKids) to develop an application that allows patients to do uroflowmetry tests at home. Uroflowmetry measures the rate of voiding vs. time and displays the test result as a curve. Currently, these tests can only be done with a machine in clinics operated by a nurse practitioner. Since the test is relatively easy and regularly conducted, it is taking away time from clinicians and nurses that could be better spent on other tasks. From the patients’ perspective, the test is not easily accessible as they would have to travel to the clinic on a regular basis. With this problem in mind, we developed SickKids Uroflow, a mobile application developed with **React Native** that enables patients to record and upload the sounds of their urine. From there the app will send the generated uroflow curve to the web app client for clinicians which is developed with **React.js**. The backend of the service is developed using **Feathers.JS/Node.js**.
